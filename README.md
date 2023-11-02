@@ -1,6 +1,6 @@
-# BlockShield - New YouTube Ad Blocker of 2023
-### This extention will automatically know when an ad runs and then it skips it and also closes the ad banner on Youtube. Install This extension on chrome.
-Enjoy Ad Free Youtube with this extension!
+# BlockShield - New YouTube Skip Ad button presser of 2023
+### This extention will automatically skip those ads which will be having "skip ad" button. Install This extension on chrome.
+Enjoy Partially Ad Free Youtube with this extension! It also removes shorts.
  
 <hr>  
 
